@@ -1,17 +1,17 @@
 {
-  "name": "package-name",
+  "name": "lib-name",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@8.1.1",
-  "description": "package-name",
+  "description": "lib-name",
   "author": "Odestry",
   "license": "MIT",
-  "homepage": "https://github.com/odestry/package-name#readme",
+  "homepage": "https://github.com/odestry/lib-name#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/odestry/package-name.git"
+    "url": "git+https://github.com/odestry/lib-name.git"
   },
-  "bugs": "https://github.com/odestry/package-name/issues",
+  "bugs": "https://github.com/odestry/lib-name/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {

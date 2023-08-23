@@ -15,10 +15,10 @@ To get started make sure you have [Node.js](https://nodejs.org/en/) installed.
 
 ### Installation
 
-First, install the package from NPM.
+First, install the lib from NPM.
 
 ```bash
-npm install package-name
+npm install lib-name
 ```
 
 ## Contributing
